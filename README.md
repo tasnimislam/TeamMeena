@@ -2,7 +2,7 @@
 The repository contains the project <a href="implemented_codes"> implemented codes </a>, <a href="Report_team_Meena.pdf"> the final report </a>
 <ul>
 <li><a href = "implemented_codes/EDA.ipynb">EDA</a> - all sort of data vidualization and signal feature check</li>
-<li><a href = "implemented_codes/Data_Imbalancing_handeling.ipynb">Data_Imbalancing_handle</a> - Augmentation method Linear Sampling implemented and balanced the term pretermm class</li>
+<li><a href = "implemented_codes/Data_Imbalancing_handeling.ipynb">Data Imbalancing handle</a> - Augmentation method Linear Sampling implemented and balanced the term pretermm class</li>
 <li><a href = "implemented_codes/Train_on_our_proposed_Model.ipynb">Training on our proposed model</a> - based on our proposed model gerneralised training and estimate the accuracy values</li>
 </ul>
 
@@ -13,10 +13,12 @@ The repository contains the project <a href="implemented_codes"> implemented cod
   <li>Urinanalysis</li>
   </ul>
 ## Uterine Contraction Analysis
-<p>We can get the diagnosis of the term/preterm staage of pregnancy by only providing the MMG signal. As we have used supervised neural network,  
+<p>We can get the diagnosis of the term/preterm staage of pregnancy by only providing the MMG signal. As we have used supervised neural network, We have pretrained our model using the <a href="https://archive.physionet.org/physiobank/database/tpehgdb/">The Term-Preterm EHG Database (TPEHG DB)</a>
 
-In this dataset, we are having 12 channel signals as input
-
+<p>In this dataset, we are having 12 channel signals as input</p>
 <img src = "images/plot signals (1).png" width = 200 >
-
-We then focused on to do some 
+<p>We then focused on to do some feature analysis such as EMD</p>
+<img src = "images/EMD.png" width = 200 >
+<p>the training graph</p>
+<img src = "images/EMD.png" width = 200 >
+<p>
