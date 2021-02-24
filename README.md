@@ -21,4 +21,5 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/EMD.png" width = 200 >
 <p>the training graph</p>
 <img src = "images/EMD.png" width = 200 >
-<p>
+<p>whether the diagnosis is term or preterm will be shown here</p>
+<img src = "images/prediction.PNG" width = 200 >
