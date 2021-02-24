@@ -17,7 +17,8 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <p><i>We were unable to sync the dataset inside the repo, so we provided the dataset link</i></p>
 
 .column {
-  flex: 33.33%;
+  float: left;
+  width: 33.33%;
   padding: 5px;
 }
 </style>
