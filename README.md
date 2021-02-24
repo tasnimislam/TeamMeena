@@ -2,8 +2,8 @@
 The repository contains the project <a href="implemented_codes"> implemented codes </a>, <a href="Report_team_Meena.pdf"> the final report </a>
 <ul>
 <li><a href = "implemented_codes/EDA.ipynb">EDA</a> - all sort of data vidualization and signal feature check</li>
-<li>Data imbalancing handle - Augmentation method Linear Sampling implemented and balanced the term pretermm class</li>
-<li>Training on our proposed model - based on our proposed model gerneralised training and estimate the accuracy values</li>
+<li><a href = "implemented_codes/Data_Imbalancing_handeling.ipynb">Data_Imbalancing_handle</a> - Augmentation method Linear Sampling implemented and balanced the term pretermm class</li>
+<li><a href = "implemented_codes/Train_on_our_proposed_Model.ipynb">Training on our proposed model</a> - based on our proposed model gerneralised training and estimate the accuracy values</li>
 </ul>
 
 
