@@ -14,6 +14,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
   </ul>
 ## Uterine Contraction Analysis
 <p>We can get the diagnosis of the term/preterm staage of pregnancy by only providing the MMG signal. As we have used supervised neural network, We have pretrained our model using the <a href="https://archive.physionet.org/physiobank/database/tpehgdb/">The Term-Preterm EHG Database (TPEHG DB)</a>
+<p><i>We were unable to sync the dataset inside the repo, so we provided the dataset link</i></p>
 
 <p>In this dataset, we are having 12 channel signals as input</p>
 <img src = "images/plot signals (1).png" width = 300 >
@@ -21,7 +22,8 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/EMD.png" width = 300 >
 <p>the training graph</p>
 <img src = "images/EMD.png" width = 300 >
-<img src = "images/prediction.PNG" , title = "whether the diagnosis is term or preterm will be shown here" width = 300 >
+<p>whether the diagnosis is term or preterm will be shown here</p>
+<img src = "images/prediction.PNG" width = 300 >
 
 ## Urinanalysis
 <p>the proposed method for urinanalysis using AI</p>
