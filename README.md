@@ -1,5 +1,11 @@
 # TeamMeena
-The repository contains the project <a href="implemented_codes"> implemented codes </a>
+The repository contains the project <a href="implemented_codes"> implemented codes </a>, <a href="Report_team_Meena.pdf"> the final report </a>
+<ul>
+<li><a href = "implemented_codes/EDA.ipynb">EDA</a> - all sort of data vidualization and signal feature check</li>
+<li>Data imbalancing handle - Augmentation method Linear Sampling implemented and balanced the term pretermm class</li>
+<li>Training on our proposed model - based on our proposed model gerneralised training and estimate the accuracy values</li>
+</ul>
+
 
 <p>We have proposed an app which can keep and show health records of a woman throughout her pregnency period. Mainly we have discussed two methods that will be diagnosed which defines whether the baby is term and preterm</p>
 <ul>
