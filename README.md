@@ -23,3 +23,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/EMD.png" width = 200 >
 <p>whether the diagnosis is term or preterm will be shown here</p>
 <img src = "images/prediction.PNG" width = 200 >
+
+## Urinanalysis
+<p>the proposed method for urinanalysis using AI</p>
+<img src = "images/urine.png" width = 200>
