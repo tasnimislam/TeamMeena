@@ -29,6 +29,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/plot signals (1).png" width = 300 >
 <p>We then focused on to do some feature analysis such as EMD</p>
 <img src = "images/EMD.png" width = 300 >
+<p>Training matrixes</p>
 <div class="row">
   <div class="column">
     <img src="images/training.png" alt="Training Matrix"  style = "width:100%" >
