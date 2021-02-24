@@ -18,7 +18,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 5px;
 }
 </style>
@@ -31,10 +31,10 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/EMD.png" width = 300 >
 <div class="row">
   <div class="column">
-    <img src="images/training.png" alt="Training Matrix"  height = "200" >
+    <img src="images/training.png" alt="Training Matrix"  style = "width:100%" >
   </div>
   <div class="column">
-    <img src="images/prediction.PNG" alt="Prediction Demo"  height = "200" >
+    <img src="images/prediction.PNG" alt="Prediction Demo"  height = "width:100%" >
   </div>
  </div>
 
