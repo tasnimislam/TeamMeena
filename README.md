@@ -30,10 +30,10 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/EMD.png" width = 300 >
 <div class="row">
   <div class="column">
-    <img src="images/training.png" alt="Training Matrix" style = "width = 100% " height = 300 >
+    <img src="images/training.png" alt="Training Matrix"  height = "300" >
   </div>
   <div class="column">
-    <img src="images/prediction.PNG" alt="Prediction Demo"  style = "width = 100%" height = 300 >
+    <img src="images/prediction.PNG" alt="Prediction Demo"  height = "300" >
   </div>
  </div>
 
