@@ -33,7 +33,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
     <img src="images/training.png" alt="Training Matrix" >
   </div>
   <div class="column">
-    <img src="images/prediction.png" alt="Prediction Demo" >
+    <img src="images/prediction.PNG" alt="Prediction Demo" >
   </div>
  </div>
 
