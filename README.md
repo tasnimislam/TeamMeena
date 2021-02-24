@@ -21,7 +21,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <img src = "images/EMD.png" width = 300 >
 <p>the training graph</p>
 <img src = "images/EMD.png" width = 300 >
-<img src = "images/prediction.PNG" , alt = "whether the diagnosis is term or preterm will be shown here" width = 300 >
+<img src = "images/prediction.PNG" , title = "whether the diagnosis is term or preterm will be shown here" width = 300 >
 
 ## Urinanalysis
 <p>the proposed method for urinanalysis using AI</p>
