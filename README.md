@@ -1,5 +1,5 @@
 # TeamMeena
-The repository contains the project <link title="implemented codes" href="implemented_codes"> 
+The repository contains the project <a href="implemented_codes"> implemented codes </a>
 
 <p>We have proposed an app which can keep and show health records of a woman throughout her pregnency period. Mainly we have discussed two methods that will be diagnosed which defines whether the baby is term and preterm</p>
 <ul>
