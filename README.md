@@ -39,6 +39,6 @@ The repository contains the project <a href="implemented_codes"> implemented cod
   </div>
  </div>
 
-<h3>Urinanalysis</h3>
+<h2>Urinanalysis</h2>
 <p>the proposed method for urinanalysis using AI</p>
 <img src = "images/urine.png" height = 400>
