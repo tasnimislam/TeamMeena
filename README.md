@@ -1,4 +1,4 @@
-# TeamMeena
+<h1>TeamMeena</h1>
 The repository contains the project <a href="implemented_codes"> implemented codes </a>, <a href="Report_team_Meena.pdf"> the final report </a>
 <ul>
 <li><a href = "implemented_codes/EDA.ipynb">EDA</a> - all sort of data vidualization and signal feature check</li>
@@ -12,7 +12,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
   <li>Uterine Contraction analysis</li>
   <li>Urinanalysis</li>
   </ul>
-## Uterine Contraction Analysis
+<h2>Uterine Contraction Analysis</h2>
 <p>We can get the diagnosis of the term/preterm staage of pregnancy by only providing the MMG signal. As we have used supervised neural network, We have pretrained our model using the <a href="https://archive.physionet.org/physiobank/database/tpehgdb/">The Term-Preterm EHG Database (TPEHG DB)</a>
 <p><i>We were unable to sync the dataset inside the repo, so we provided the dataset link</i></p>
 
@@ -39,6 +39,6 @@ The repository contains the project <a href="implemented_codes"> implemented cod
   </div>
  </div>
 
-## Urinanalysis
+<h3>Urinanalysis</h3>
 <p>the proposed method for urinanalysis using AI</p>
 <img src = "images/urine.png" height = 400>
