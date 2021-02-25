@@ -1,5 +1,8 @@
 <h1>TeamMeena</h1>
+The project demonstration is included in <a href = "https://drive.google.com/file/d/181gUBDEMz58IHIHHx7jw6MJlwbkMgj6l/view?usp=sharing">Video in the google drive</a>
+<p><i>We were unable toupload the video in the github repository because of the size limitation</i></p>
 The repository contains the project <a href="implemented_codes"> implemented codes </a>, <a href="Report_team_Meena.pdf"> the final report </a>
+
 <ul>
 <li><a href = "implemented_codes/EDA.ipynb">EDA</a> - all sort of data vidualization and signal feature check</li>
 <li><a href = "implemented_codes/Data_Imbalancing_handeling.ipynb">Data Imbalancing handle</a> - Augmentation method Linear Sampling implemented and balanced the term pretermm class</li>
