@@ -1,6 +1,6 @@
 <h1>TeamMeena</h1>
 The project demonstration is included in <a href = "https://drive.google.com/file/d/181gUBDEMz58IHIHHx7jw6MJlwbkMgj6l/view?usp=sharing">Video in the google drive</a>
-<p font-size:15px><i>We were unable toupload the video in the github repository because of the size limitation</i></p>
+<p font-size:15px><i>We were unable to upload the video in the github repository because of the size limitation</i></p>
 The repository contains the project <a href="implemented_codes"> implemented codes </a>, <a href="Report_team_Meena.pdf"> the final report </a>
 
 <ul>
